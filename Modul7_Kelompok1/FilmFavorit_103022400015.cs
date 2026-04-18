@@ -15,6 +15,6 @@ namespace Modul7_Kelompok1
         public int durationMinutes { get; set; }
         public Boolean isWatched { get; set; }
 
-        
+     
     }
 }
