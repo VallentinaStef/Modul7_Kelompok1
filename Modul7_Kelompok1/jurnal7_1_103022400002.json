@@ -1,9 +1,9 @@
 {
-    "title": "<NAMA FILM>",
-    "director": "<NAMA DIRECTOR>",
-    "year": "<TAHUN>",
-    "genre": "<GENRE>",
-    "rating": <RATING>,
-    "durationMinutes": <DURASI>,
-    "isWatched": <TRUE OR FALSE>
+  "title": "blabla",
+  "director": "dwi",
+  "year": "2024",
+  "genre": "horror",
+  "rating": 4,
+  "durationMinutes": 90,
+  "isWatched": true
 }
